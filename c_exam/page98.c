@@ -1,7 +1,7 @@
 #include <stdio.h>
      main(){
           int i = 1, sum;
-               while(i <= 100)
+               while(i <= 50)
                {
                     if(i % 2 != 0){
                          sum += i;
